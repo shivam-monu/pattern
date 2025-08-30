@@ -17,5 +17,6 @@ int main() {
         printf("\n");
 
     }
+    printf("finished");
     return 0;
 }
