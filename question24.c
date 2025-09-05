@@ -1,4 +1,10 @@
 #include <stdio.h>
+/*
+   A
+  AB
+ ABC
+ABCD
+*/
 int main() {
     int n;
     printf("enter the row:");
