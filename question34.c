@@ -14,6 +14,8 @@ int main() {
     scanf("%d",&n);
     int nst=n;
     int nsp=1;
+    
+    
     for (int i = 0; i <=n; i++)
     {
         for (int j = 1; j <=nst; j++)
