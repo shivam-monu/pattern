@@ -20,21 +20,17 @@ int main() {
     printf("\n");
     for (int i = 1; i <=n; i++)
     {
-        int num=1;
         for (int j = 1; j <= nst; j++)
         {
-            printf("%d",num);
-            num++;
+            printf("%d",j);
         }
         for (int k = 1; k <=nsp; k++)
         {
             printf(" ");
-            num++;
         }
         for (int j = 1; j <=nst; j++)
         {
             printf("%d",j);
-            num++;
         }
         nst--;
         nsp+=2;
