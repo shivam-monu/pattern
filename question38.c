@@ -1,4 +1,13 @@
 #include <stdio.h>
+/*
+A B C D E F G H I J K 
+A B C D E   F G H I J
+A B C D       F G H I 
+A B C           F G H
+A B               F G 
+A                   F
+
+*/
 
 int main()
 {
